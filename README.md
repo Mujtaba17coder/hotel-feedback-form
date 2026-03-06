@@ -1,2 +1,9 @@
-# hotel-feedback-form
-A simple hotel feedback form built using HTML  to collect customer reviews and suggestions.
+# Hotel Feedback Form
+
+A simple hotel feedback form built with HTML and CSS.
+
+Features:
+- User information
+- Hotel stay question
+- Recommendation option
+- Feedback text area
